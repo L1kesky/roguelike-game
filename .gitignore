@@ -1,5 +1,12 @@
-﻿.godot/
+.godot/
+.nomedia
 .import/
+export.cfg
 export_presets.cfg
+export_credentials.cfg
 *.tmp
 *.log
+*.translation
+.mono/
+data_*/
+mono_crash.*.json
