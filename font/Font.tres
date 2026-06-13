@@ -1,0 +1,4 @@
+﻿[gd_resource type="FontFile" format=3]
+
+[resource]
+font_data = load("res://assets/simhei.ttf")
